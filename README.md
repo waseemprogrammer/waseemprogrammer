@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Waseem Malik
 
-![Profile Banner](https://avatars.githubusercontent.com/u/149921814?v=4)
-
 **Full Stack Developer | Self-taught Software Engineer**
 
 Welcome to my GitHub! My mission is to help students, beginners, and tech enthusiasts explore the world of coding, AI, and future technologies. Whether you’re here to learn, build, or grow—let’s make it happen together!
@@ -16,15 +14,6 @@ Welcome to my GitHub! My mission is to help students, beginners, and tech enthus
 
 ---
 
-## ⚡ Tech Stack
-
-- **Languages & Frameworks:**  
-  PHP Stack | MERN Stack (MongoDB, Express.js, React, Node.js) | React Native | Python Stack
-- **Tools:**  
-  Git & GitHub, REST APIs, Firebase, Docker
-
----
-
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -34,6 +23,16 @@ Welcome to my GitHub! My mission is to help students, beginners, and tech enthus
 </div>
 
 ---
+
+## ⚡ Tech Stack
+
+- **Languages & Frameworks:**  
+  PHP Stack | MERN Stack (MongoDB, Express.js, React, Node.js) | React Native | Python Stack
+- **Tools:**  
+  Git & GitHub, REST APIs, Firebase, Docker
+
+---
+
 
 ## 📌 Pinned Projects
 
