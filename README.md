@@ -16,7 +16,7 @@ Welcome to my GitHub! My mission is to help students, beginners, and tech enthus
 
 ## 🔥 GitHub Stats
 
-<div align="center">
+<div  style="display:flex; gap:2rem">
   <img src="https://github-readme-stats.vercel.app/api?username=waseemprogrammer&amp;show_icons=true&amp;theme=github_dark" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemprogrammer&amp;theme=github-dark-blue" alt="GitHub streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemprogrammer&amp;layout=compact&amp;theme=github_dark" alt="Top languages" />
